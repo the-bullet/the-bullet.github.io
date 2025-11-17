@@ -1,4 +1,4 @@
-# the-bullet.github.io
+# Bum Bot Documentation
 
 **Privacy Policy**
 
